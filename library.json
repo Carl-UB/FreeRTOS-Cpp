@@ -1,0 +1,12 @@
+{
+    "name": "FreeRTOS-Cpp",
+    "keywords": "FreeRTOS, Cpp, C++, Wrapper",
+    "version": "0.5.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Carl-UB/FreeRTOS-Cpp.git"
+    },
+    "dependencies": {},
+    "frameworks": "*",
+    "platforms": "*"
+}
