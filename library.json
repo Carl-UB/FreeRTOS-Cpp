@@ -6,7 +6,9 @@
         "type": "git",
         "url": "https://github.com/Carl-UB/FreeRTOS-Cpp.git"
     },
-    "dependencies": {},
+    "dependencies": {
+        "FreeRTOS-Kernel": "https://github.com/FreeRTOS/FreeRTOS-Kernel.git"
+    },
     "frameworks": "*",
     "platforms": "*"
 }
